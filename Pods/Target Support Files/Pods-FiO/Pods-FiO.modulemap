@@ -1,0 +1,6 @@
+framework module Pods_FiO {
+  umbrella header "Pods-FiO-umbrella.h"
+
+  export *
+  module * { export * }
+}
