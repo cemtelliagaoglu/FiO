@@ -1,6 +1,5 @@
 # FiO - Four in One
 <a><img src = "https://user-images.githubusercontent.com/82387854/202932155-66a54108-d9fd-4991-a5ee-143d7df9fea5.png" width = "190" height = "380" >
-<img src = "https://user-images.githubusercontent.com/82387854/202932227-5ca9d2a5-3c3f-49fd-b6a6-e020bbbbd5a1.png" width = "190" height = "380" >
 <img src = "https://user-images.githubusercontent.com/82387854/202932285-149fb61e-aa5a-43be-9568-1efb9ab9efd9.png" width = "190" height = "380" >
 <img src = "https://user-images.githubusercontent.com/82387854/202932357-36652872-1136-4fcb-8668-5580c35f2e69.png" width = "190" height = "380" >
 <img src = "https://user-images.githubusercontent.com/82387854/203010466-5d524620-00b4-4f9d-9353-8dc9391dca64.png" width = "190" height = "380" >
